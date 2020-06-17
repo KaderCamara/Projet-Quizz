@@ -1,0 +1,89 @@
+body{
+    height: 100vh;
+}
+.bg-kader{
+    background-color: #052426;
+    color: white;
+    border: none;
+}
+.bg-kader1{
+    background-color: #51bfd0;
+    color: white;
+    border: none;
+}
+.bg-kader2{
+    background-color: #f2f2f2;
+    color: white;
+    border: none;
+}
+.bg-kader3{
+    background-color: #39ddd6;
+    color: white;
+    border: none;
+}
+header{
+    height: 10vh;
+}
+.main{
+    height: 90vh;
+    background-image: url("./../img/img-bg.jpg");
+}
+#input{
+    height: 60px;
+    width: 40vw;
+    background-color: #f0eef1;
+}
+.bande{
+    height: 9vh;
+    width: 6px;
+    background-color: transparent;
+}
+.bande_active{
+    height: 9vh;
+    width: 6px;
+    background-color: green;
+}
+.icones{
+    height: 30px;
+    width: 30px;
+}
+.logo{
+    background-image: url("./../img/Capture.PNG");
+    height: 50px;
+    width: 100px;
+}
+.exit{
+    background-image: url("./../img/exit.PNG");
+    height: 20px;
+    width: 30px;
+}
+.login_logo{
+    margin-left: -45px;
+    width: 30px;
+    height: 30px;
+    margin-top:15px;
+    background-image: url("./../img/ic-login.png");
+}
+.mdp_logo{
+    margin-left: -50px;
+    width: 40px;
+    height: 40px;
+    margin-top:15px;
+    background-image: url("./../img/cadenas.PNG");
+}
+#icone1{
+    background-image: url("./../img/ic-liste.png");
+}
+#icone2{
+    background-image: url("./../img/ic-ajout.png");
+}
+#icone1active{
+    background-image: url("./../img/ic-liste-active.png");
+}
+#icone2active{
+    background-image: url("./../img/ic-ajout-active.png");
+}
+
+#iconesupp{
+    background-image: url("./../img/ic-supprimer.png") ;
+}
